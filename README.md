@@ -1,10 +1,10 @@
-# 💖 AI-Powered Donation Platform 
+#  AI-Powered Donation Platform 
 
 A **habit-forming donation platform** that makes giving small, fun, and rewarding.
 
 ---
 
-## ✨ Core Features
+##  Core Features
 
 * **AI Recommendations**
 
@@ -34,7 +34,7 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 
 * **Frontend**: React.js
 * **Backend**: Node.js + PostgreSQL
