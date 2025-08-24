@@ -1,4 +1,4 @@
-# 💖 AI-Powered Donation Platform — Concept
+# 💖 AI-Powered Donation Platform 
 
 A **habit-forming donation platform** that makes giving small, fun, and rewarding.
 
@@ -20,7 +20,6 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
 * **Streaks & Habit Loops**
 
   * Weekly / monthly streaks encourage consistency.
-  * Streak recovery option to keep momentum going.
 
 * **Incentives & Coupons**
   Brand partners can sponsor coupons, discounts, or cashback rewards for donors.
@@ -37,21 +36,7 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
 
 ## 🛠️ Technology Stack
 
-* **Frontend**: React.js (Tailwind for styling, shadcn/ui for components)
+* **Frontend**: React.js
 * **Backend**: Node.js + PostgreSQL
 * **AI Layer**: OpenAI / OpenRouter models for personalization & recommendations
 * **Gamification**: Custom point engine + streak tracking logic
-
----
-
-## 🎨 Example User Flow
-
-1. **Onboarding** → Select causes + set monthly comfort budget
-2. **AI Recs** → Personalized donation plan created
-3. **Donation** → Auto-deduction or manual giving in one tap
-4. **Engagement** → Fun notifications, streak updates, and impact stories
-5. **Rewards** → Points + coupons, streak milestones, and badges
-
----
-
-Would you like me to now **expand this into a product pitch deck style** (slides/sections like Problem → Solution → Features → Tech → Future Scope), or keep it in this **README-style** for developer documentation?
