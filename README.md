@@ -34,7 +34,7 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 * **Frontend**: React.js
 * **Backend**: Node.js + PostgreSQL
