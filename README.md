@@ -22,10 +22,10 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
   * Weekly / monthly streaks encourage consistency.
 
 * **Incentives & Coupons**
-  Brand partners can sponsor coupons, discounts, or cashback rewards for donors.
+  * Brand partners can sponsor coupons, discounts, or cashback rewards for donors.
 
 * **Monthly Auto-Deduction**
-  Users set a comfort budget → automatic recurring micro-donations.
+  * Users set a comfort budget → automatic recurring micro-donations.
 
 * **Fun Notifications**
 
