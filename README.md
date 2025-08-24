@@ -6,17 +6,6 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
 
 ## ✨ Core Features
 
-* **Monthly Auto-Deduction**
-  Users set a comfort budget → automatic recurring micro-donations.
-
-* **Incentives & Coupons**
-  Brand partners can sponsor coupons, discounts, or cashback rewards for donors.
-
-* **Fun Notifications**
-
-  * Gentle nudges like *“Your streak is alive! You just unlocked 7 days of kindness.”*
-  * Celebration pings when impact milestones are reached (*“You’ve provided 50 meals this month 🎉”*).
-
 * **AI Recommendations**
 
   * Suggest causes aligned with donor’s interests, seasonal events, or urgent needs.
@@ -32,6 +21,17 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
 
   * Weekly / monthly streaks encourage consistency.
   * Streak recovery option to keep momentum going.
+
+* **Incentives & Coupons**
+  Brand partners can sponsor coupons, discounts, or cashback rewards for donors.
+
+* **Monthly Auto-Deduction**
+  Users set a comfort budget → automatic recurring micro-donations.
+
+* **Fun Notifications**
+
+  * Gentle nudges like *“Your streak is alive! You just unlocked 7 days of kindness.”*
+  * Celebration pings when impact milestones are reached (*“You’ve provided 50 meals this month 🎉”*).
 
 ---
 
