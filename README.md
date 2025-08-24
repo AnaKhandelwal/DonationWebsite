@@ -15,7 +15,7 @@ A **habit-forming donation platform** that makes giving small, fun, and rewardin
 
   * Every donation = points.
   * Redeemable for coupons, badges, or exclusive experiences.
-  * Donor leaderboard / community vibes (optional private mode).
+  * Donor leaderboard .
 
 * **Streaks & Habit Loops**
 
